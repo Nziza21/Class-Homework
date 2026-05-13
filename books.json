@@ -1,0 +1,42 @@
+[
+    {
+        "id": 125106458164240,
+        "created_at": "2026-05-13T15:44:06.697791",
+        "updated_at": "2026-05-13T15:44:06.698336",
+        "title": "1984",
+        "author": "George Orwell",
+        "year": 1949,
+        "genre": "Dystopian",
+        "isBorrowed": false
+    },
+    {
+        "id": 125106458165696,
+        "created_at": "2026-05-13T15:44:06.699779",
+        "updated_at": "2026-05-13T15:44:06.699790",
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "year": 1937,
+        "genre": "Fantasy",
+        "isBorrowed": false
+    },
+    {
+        "id": 128039468153872,
+        "created_at": "2026-05-13T15:44:30.288279",
+        "updated_at": "2026-05-13T15:44:30.288297",
+        "title": "1984",
+        "author": "George Orwell",
+        "year": 1949,
+        "genre": "Dystopian",
+        "isBorrowed": false
+    },
+    {
+        "id": 128039468156096,
+        "created_at": "2026-05-13T15:44:30.288810",
+        "updated_at": "2026-05-13T15:44:30.288819",
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "year": 1937,
+        "genre": "Fantasy",
+        "isBorrowed": false
+    }
+]
